@@ -1,0 +1,44 @@
+.jumbotron{
+  height: 100vh; background-size: cover;
+}
+.jumbotron h2{
+  font-family: fantasy;
+  font-size: xxx-large;
+  color: #16cca2;
+
+}
+
+.jumbotron p{
+  font-size: large;
+  font-weight: bolder;
+  font-family: fantasy;
+  color: black;
+  
+}
+.jumbotron a{
+  color: black;
+  
+  font-family: fantasy;
+  font-size: xx-large;
+}
+.navbar-light{
+  background-color:#ffeb77;
+  font-family: fantasy;
+}
+
+}
+.container-fluid{
+  padding-left: 20px;
+
+ 
+}
+
+.navbar-brand{
+  font-family: fantasy;
+  font-size:xx-large;
+}
+
+
+.page-footer{
+  background-color: #ffeb77;
+}
